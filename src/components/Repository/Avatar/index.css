@@ -1,0 +1,11 @@
+.creator-avatar {
+    width: 20%;
+    height: 100%;
+}
+
+.creator-avatar img {
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 80%;
+    max-height: 200px;
+}

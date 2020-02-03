@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/latest-github-repos.iml" filepath="$PROJECT_DIR$/.idea/latest-github-repos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trending-github-repos.iml" filepath="$PROJECT_DIR$/.idea/trending-github-repos.iml" />
     </modules>
   </component>
 </project>
