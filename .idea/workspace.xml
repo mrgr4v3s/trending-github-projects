@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc738486-ac66-4b85-ba60-9ce43defc13d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/latest-github-repos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/trending-github-repos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Repository/Content/Footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Repository/Content/Footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Repository/Content/Footer/state.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Repository/Content/Footer/state.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/repository.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/repository.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documentos/Ana" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,7 +45,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="G:\workspace\latest-github-repos\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\jvieira\Documents\workspace\trending-github-projects\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,6 +63,7 @@
         <script value="start" />
       </scripts>
       <node-interpreter value="project" />
+      <package-manager value="npm" />
       <envs />
       <method v="2" />
     </configuration>
@@ -83,6 +81,7 @@
       <workItem from="1580659119648" duration="429000" />
       <workItem from="1580682191691" duration="199000" />
       <workItem from="1580682435919" duration="10219000" />
+      <workItem from="1580739915607" duration="3587000" />
     </task>
     <servers />
   </component>
@@ -94,25 +93,33 @@
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2333" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1580682329151" />
+    <state x="2114" y="113" key="#npm_start" timestamp="1580740142069">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2114" y="113" key="#npm_start/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1580740142069" />
     <state x="2383" y="120" key="FileChooserDialogImpl" timestamp="1580659549686">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="2383" y="120" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1580659549686" />
-    <state width="1345" height="156" key="GridCell.Tab.0.bottom" timestamp="1580705266006">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom" timestamp="1580740244717">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1580740244717" />
     <state width="1345" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1580705266006" />
-    <state width="1345" height="156" key="GridCell.Tab.0.center" timestamp="1580705266005">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state width="1579" height="202" key="GridCell.Tab.0.center" timestamp="1580740244717">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1580740244717" />
     <state width="1345" height="156" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1580705266005" />
-    <state width="1345" height="156" key="GridCell.Tab.0.left" timestamp="1580705266005">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state width="1579" height="202" key="GridCell.Tab.0.left" timestamp="1580740244717">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1580740244717" />
     <state width="1345" height="156" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1580705266005" />
-    <state width="1345" height="156" key="GridCell.Tab.0.right" timestamp="1580705266005">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state width="1579" height="202" key="GridCell.Tab.0.right" timestamp="1580740244717">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
+    <state width="1579" height="202" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1600.860@1600.0.1600.860" timestamp="1580740244717" />
     <state width="1345" height="156" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1366.728@1920.0.1366.728" timestamp="1580705266005" />
     <state x="2104" y="7" key="SettingsEditor" timestamp="1580682390789">
       <screen x="1920" y="0" width="1366" height="728" />

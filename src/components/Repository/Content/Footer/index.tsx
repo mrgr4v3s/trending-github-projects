@@ -3,8 +3,8 @@ import React, {FC} from "react";
 import "./index.css";
 import {FooterProps} from "./state";
 
-const calculateDaysBetweenDateAndNow = (date: Date) => {
-    const differenceInTime = new Date().getTime() - date.getTime();
+const calculateDaysBetweenDateAndNow = (date: string) => {
+    const differenceInTime = new Date().getTime() - new Date(date).getTime();
 
     return Math.round(differenceInTime / (1000 * 3600 * 24));
 };
